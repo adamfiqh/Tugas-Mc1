@@ -191,3 +191,41 @@ button:hover {
 .footer a:hover {
   color: #f0f0f0;
 }
+
+.bio-section {
+  background-color: #f9f9f9;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.bio-section h2 {
+  font-size: 28px;
+}
+
+.bio {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bio-info {
+  text-align: center;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.bio-info img {
+  max-width: 100%;
+  border-radius: 70%;
+  margin-bottom: 20px;
+}
+
+.bio-info h3 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.bio-info p {
+  font-size: 18px;
+  color: #777;
+}
